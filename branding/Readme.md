@@ -1,4 +1,4 @@
-#GDG Cloud Vancouver Logos and Usage
+# GDG Cloud Vancouver Logos and Usage
 
 We’ve put together some assets for those times when you want to show off your GDG Cloud Vancouver association or link back to us. 
 Happy coding!
@@ -6,42 +6,42 @@ Happy coding!
 Font used is  **Product Sans** . To be only used for GDG purpose.
 
 You can get the assets in following formats
-+ [png](/assets/png)
-+ [jpg](/assets/jpg)
-+ [svg](/assets/svg)
++ [png](assets/png)
++ [jpg](assets/jpg)
++ [svg](assets/svg)
 
 
 ### Facebook Banner Image
-![Facebook Banner Image](/assets/png/fb_banner.png)
+<img height="300" src="assets/png/fb_banner.png" alt="Facebook Banner Image" />
 
 ### Google+ Banner Image
-![Google+ Banner Image](/assets/png/gplus_banner.png)
+<img src="assets/png/gplus_banner.png" alt="Google+ Banner Image" />
 
 ### GDG Cloud Vancouver Banner Logo
-![GDG Cloud Vancouver Banner Logo](/assets/png/gdgcv_logo_long.png)
+<img src="assets/png/gdgcv_logo_long.png" alt="GDG Cloud Vancouver Banner Logo" />
 
 ### GDG Cloud Vancouver Square Logo
-![GDG Cloud Vancouver Square Logo Type 1](/assets/png/gdgcv_logo_square_type1.png)
+<img height="220" src="assets/png/gdgcv_logo_square_type1.png" alt="GDG Cloud Vancouver Square Logo Type 1" />
 
-![GDG Cloud Vancouver Square Logo Type 2](/assets/png/gdgcv_logo_square_type2.png)
+<img height="220" src="assets/png/gdgcv_logo_square_type2.png" alt="GDG Cloud Vancouver Square Logo Type 2" />
 
-![GDG Cloud Vancouver Square Logo Type 3](/assets/png/gdgcv_logo_square_type3.png)
+<img height="220" src="assets/png/gdgcv_logo_square_type3.png" alt="GDG Cloud Vancouver Square Logo Type 3" />
 
 ### GDG Cloud Vancouver Bot Logo
-![GDG Cloud Vancouver Bot Logo](/assets/png/gdgcv_logo_square_bot.png)
+<img height="220" src="assets/png/gdgcv_logo_square_bot.png" alt="GDG Cloud Vancouver Square Bot Logo" />
 
 ### GDG Logo
-![GDG Logo](/assets/png/gdgcv_logo_no_bg.png)
+<img height="220" src="assets/png/gdgcv_logo_no_bg.png" alt="GDG Cloud Vancouver Logo - No BG" />
 
-###Please contact us
+### Please contact us
 + If you want to use artwork not included in this repository
 + If you want to use these images in a video/mainstream media
 
-###Legal
+### Legal
 + In short, the GDG Cloud Vancouver logos represent only GDG Cloud Vancouver and should not be used to represent your products. 
 + You may also read the official legal terms, if you’re into that.
 
-###Please don’t do these things
+### Please don’t do these things
 + Use the GDG Cloud Vancouver logo for your application’s icon
 + Create a modified version of the GDG Cloud Vancouver logo
 + Integrate the GDG Cloud Vancouver logo into your logo
