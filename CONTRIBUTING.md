@@ -1,4 +1,4 @@
-#Contributing to GDG Cloud Vancouver
+# Contributing to GDG Cloud Vancouver
 
 We'd love for you to contribute to our source code and to make GDG Cloud Vancouver even better than it is today! Here are the guidelines we'd like you to follow:
 
@@ -143,7 +143,7 @@ If the inactive contributor can't be reached the contributor is moved to the alu
 Maintainers who are inactive for more than six months will be contacted by one of the GDG Cloud Vancouver admin organizers and asked whether they can become active again or retire (see inactive contributors). If they retire and no other maintainers can be found the project is marked [DEPRECATED].
 
 
-[coc]: /CONTRIBUTING.md
+[coc]: /code-of-conduct/community_coc.md
 [github]: https://github.com/GDGV
 [meetuppage]: https://www.meetup.com/GDGCloudVancouver/
 [js-style-guide]: http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml

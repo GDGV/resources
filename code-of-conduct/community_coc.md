@@ -5,11 +5,11 @@ All attendees, speakers, sponsors and volunteers at our events are required to a
 > tl;dr: Be excellent with each other
 
 
-The Quick Version
+#### The Quick Version
 
 GDG Cloud Vancouver is dedicated to providing a harassment-free experience for everyone, regardless of gender, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks, workshops, parties, Twitter and other online media. Event participants violating these rules may be sanctioned or expelled from the event without a refund (if applicable) at the discretion of the GDG Cloud Vancouver organizers.
 
-The Less Quick Version
+#### The Less Quick Version
 
 Harassment includes offensive verbal comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behaviour are expected to comply immediately.
 
